@@ -1,0 +1,37 @@
+{
+  "image": "9.png",
+  "name": "AXOLOTLS #9",
+  "description": "Axolotls are an endangered species, the purpose of this collection is to donate to help them and other creatures",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Bodys",
+      "value": "Striped Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses 2"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White T Shirt Design Zebra"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Vampire Hunter"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
